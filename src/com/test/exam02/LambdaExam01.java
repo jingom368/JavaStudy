@@ -1,3 +1,5 @@
+// 23.09.19(화) Lambda
+
 package com.test.exam02;
 
 import java.util.function.Consumer;

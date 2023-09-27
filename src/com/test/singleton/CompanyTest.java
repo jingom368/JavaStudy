@@ -1,3 +1,5 @@
+// 23.09.15(금) Singleton
+
 package com.test.singleton;
 
 public class CompanyTest {

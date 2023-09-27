@@ -1,3 +1,5 @@
+// 23.09.18(월) Generic
+
 package com.test.exam02;
 
 public class GenericTest01 {

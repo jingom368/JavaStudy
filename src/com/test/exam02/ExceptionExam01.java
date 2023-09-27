@@ -1,3 +1,5 @@
+// 23.09.18(월) 예외
+
 package com.test.exam02;
 
 public class ExceptionExam01 {

@@ -1,3 +1,5 @@
+// 23.09.18(월) Polymorphism
+
 package com.test.exam02;
 
 public class polymorphismExam03 { // 업캐스팅

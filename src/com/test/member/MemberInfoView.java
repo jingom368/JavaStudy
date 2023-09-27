@@ -1,3 +1,5 @@
+// 23.09.18(월) MemberInfoView
+
 package com.test.member;
 
 import java.util.ArrayList;
@@ -11,11 +13,11 @@ public class MemberInfoView {
         // Member member = new Member("김철수","남성", 23);
 
         List<Member> list = new ArrayList<>(); // 동적 배열을 지원하는 Collector Framework
-        list.add(new Member("김철수","남성",23));
-        list.add(new Member("장진웅","남성",29));
-        list.add(new Member("김철웅","남성",36));
-        list.add(new Member("유지희","여성",21));
-        list.add(new Member("변수현","여성",32));
+        // list.add(new Member("김철수","남성",23));
+        // list.add(new Member("장진웅","남성",29));
+        // list.add(new Member("김철웅","남성",36));
+        // list.add(new Member("유지희","여성",21));
+        // list.add(new Member("변수현","여성",32));
 
         for(Member member : list) {
             System.out.println(member.getName() + "\t" + member.getGender() + "\t" + member.getAge());

@@ -1,3 +1,5 @@
+// 23.09.18(월) 추상화
+
 package com.test.exam02;
 
 public class ClassExam02 {

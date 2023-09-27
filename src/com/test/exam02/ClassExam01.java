@@ -1,3 +1,5 @@
+// 23.09.15(금) 클래스
+
 package com.test.exam02;
 
 import com.test.member.Member;
@@ -30,7 +32,7 @@ public class ClassExam01 {
         System.out.println("Sum 클래스의 멤버변수 sumB = " + sum.getSumB());
         System.out.println("4와 5의 합은 " + sum.sum(4,5) + "입니다.");
 
-        Member member = new Member("장진웅", "남성", 29);
+        Member member = new Member();
         member.setName("장진웅");
         member.setGender("남성");
         member.setAge(29);

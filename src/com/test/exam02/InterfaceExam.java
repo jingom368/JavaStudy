@@ -1,3 +1,5 @@
+// 23.09.18(월) Interface
+
 package com.test.exam02;
 
 interface InterfaceTest {

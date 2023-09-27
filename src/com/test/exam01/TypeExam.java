@@ -1,3 +1,5 @@
+// 09.14(목)
+
 package com.test.exam01;
 
 public class TypeExam {

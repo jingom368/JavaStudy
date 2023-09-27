@@ -1,3 +1,5 @@
+// 23.09.15(금) InnerClass
+
 package com.test.exam02;
 
 public class InnerClassTest {
